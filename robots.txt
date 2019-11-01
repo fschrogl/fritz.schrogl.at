@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://fritz.schrogl.at/sitemap.xml
